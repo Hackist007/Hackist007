@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Naveed Ahmad
 
-<!--
-**Hackist007/Hackist007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student
 
-Here are some ideas to get you started:
+☁️ Future Cloud Security Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Learning AI Automation & Integration
+
+⚙️ Learning DevSecOps & Infrastructure as Code (IaC)
+
+---
+
+## 🚀 About Me
+
+- 🎓 BSCS Student
+- ☁️ Future Cloud Security Engineer
+- 🤖 Learning AI Automation
+- ⚙️ Learning DevSecOps
+- 📚 Building Real-World Projects
+
+---
+
+## 🎯 Current Learning
+
+- Python
+- Git
+- Linux
+- Docker
+- Kubernetes
+- Terraform
+- AWS
+- Cloud Security
