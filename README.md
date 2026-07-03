@@ -30,3 +30,5 @@
 - Terraform
 - AWS
 - Cloud Security
+
+Linkedin:https://www.linkedin.com/in/naveed-ahmad-4501683a9/
